@@ -40,7 +40,7 @@ layers:
   - {t: TAB, h: Numeral/Function}
   - {t: SPACE, h: Symbol}
   - {t: ESC, h: Media}
-  - BACK SPACE
+  - {t: BACK SPACE, h: HYPER}
   - {t: ENTER, h: Navigation}
   Numeral/Function:
   - ''
